@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @allanuxweb
 - 👀 I’m interested in Web design and development 
 - 🌱 I’m currently learning WordPress
-- 💞️ I’m looking to collaborate on Themes and Plug-ins
+- 💞️ I’m looking to collaborate on WordPress Themes and Plug-ins
 - 📫 How to reach me allanuxweb@gmail.com
 
 <!---
